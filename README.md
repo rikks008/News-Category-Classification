@@ -7,7 +7,7 @@ This dataset contains around 200k news headlines from the year 2012 to 2018 obta
 #### Technical Aspect
 I have created three separate files for this assignment:
 
-1.Classification using-different-ml and lstm-models - This files contains the EDA , data preprocessing and building dufferent ML models and a simple NN model.
+1.Classification using-different-ml and lstm-models - This files contains the EDA , data preprocessing and building different ML models and a simple NN model.
 
 2.Using Glove Word Embedding - Used pretrained Glove word embeddings and LSTM model
 
